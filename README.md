@@ -1,1 +1,1 @@
-# news
+# News App with React Native 
